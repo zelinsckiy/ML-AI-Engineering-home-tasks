@@ -1,1 +1,1 @@
-# Домашні завдання з курсу "Machine Learning для людей"
+# Домашні завдання з курсу "Machine Learning & AI Engineering"
